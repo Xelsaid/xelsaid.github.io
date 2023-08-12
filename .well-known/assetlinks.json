@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.amlo",
+      "sha256_cert_fingerprints": [
+        "18:11:91:2B:A0:8A:E7:44:3F:27:6D:28:4B:97:D2:FB:1C:83:C4:81:C0:24:7B:89:69:19:8E:26:9C:59:B2:C4"
+      ]
+    }
+  }
+]
